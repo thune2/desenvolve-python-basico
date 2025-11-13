@@ -1,4 +1,4 @@
-cidade onde o curso esta sendo realizado :Projeto Desenvolve _ Itabira
+Cidade onde o curso esta sendo realizado :Projeto Desenvolve _ Itabira
 
 Nome da disciplina :Programação básicacom Python
 
